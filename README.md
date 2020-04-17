@@ -1,9 +1,9 @@
-# ¹¦ÄÜ
-ÈËÔ±¼ì²âSDK£¬¿ÉÓÃÓÚµç×ÓÎ§À¸£¬ÈËÁ÷¼ÆÊı
+ï»¿# åŠŸèƒ½
+äººå‘˜æ£€æµ‹SDKï¼Œå¯ç”¨äºç”µå­å›´æ ï¼Œäººæµè®¡æ•°
 
-# »·¾³
+# ç¯å¢ƒ
 64 bit jdk 8+ and win 10+
 
-# Ğ§¹û
+# æ•ˆæœ
 ![1](https://github.com/yemuzi/person/blob/master/samplecode/out.jpg) 
 
